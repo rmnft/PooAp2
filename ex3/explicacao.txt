@@ -1,0 +1,8 @@
+O código fornecido não segue o Princípio da Responsabilidade Única (Single Responsibility Principle - SRP).
+Porque a classe Exercicio01 realiza varias tarefas como:
+
+Recebimento de notas dos alunos.
+Cálculo da média das notas.
+Exibição da média e da nota correspondente.
+
+o SRP sugere que uma classe ou funcao deve ter apenas uma responsabilidade
