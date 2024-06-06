@@ -6,3 +6,7 @@ Cálculo da média das notas.
 Exibição da média e da nota correspondente.
 
 o SRP sugere que uma classe ou funcao deve ter apenas uma responsabilidade
+
+FONTE:
+
+https://gist.github.com/marioluan/4056402
